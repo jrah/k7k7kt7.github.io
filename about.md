@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: About Ted
 permalink: /about/
 ---
 
-Some information about you!
+Hello this is Ted.
+Born in South Korea, living and working in UK.
+Tea Startup Founder
+Freelance Translator & Interpreter
+Learning many different stuff.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+Gunners by heart
+Love coffee
+Like alcoholic drinks
+but prefer tea
 
-### Contact me
+### Contact me 
 
-[email@domain.com](mailto:email@domain.com)
+[start.ted.kim@gmail.com](mailto:start.ted.kim@gmail.com)
